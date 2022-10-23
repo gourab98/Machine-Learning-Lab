@@ -1,1 +1,1 @@
-Machine Learning basics labs.
+Machine Learning basic labs.
